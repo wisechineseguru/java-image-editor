@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_05-ea (Sun Microsystems Inc.)
+SplashScreen-Image: resources/images/sampleimages/nice.jpg
+Main-Class: Start
+
